@@ -1,0 +1,123 @@
+package encapsulation;
+
+public class CustomerVoterCardDriver {
+
+	public static void main(String[] args) {
+		
+		CustomerVoterCard c1 = new CustomerVoterCard("TXQ123456", "Sachin", "26 August 1994", 32, "Noida", "Ibrahimpur", 261);
+		CustomerVoterCard c2 = new CustomerVoterCard("ABC123456", "Mohan", "27 July 1995", 100, "Luckonow", "Hazratganj", 761);
+		CustomerVoterCard c3 = new CustomerVoterCard("YUR123456", "Sohan", "28 June 1996", 101, "New Delhi", "West Delhi", 891);
+		CustomerVoterCard c4 = new CustomerVoterCard("ZUX123456", "Rohan", "29 January 1999", 102, "Meerut", "Meerut Catt", 789);
+		CustomerVoterCard c5 = new CustomerVoterCard("TXQ123789", "Arjun", "21 December 1998", 85, "Delhi", "Central Delhi", 123);
+		CustomerVoterCard c6 = new CustomerVoterCard("TXQ789456", "Akash", "18 Feburary 2001", 36, "Ayodhya", "Ayodhyacantt", 856);
+		CustomerVoterCard c7 = new CustomerVoterCard("UZA123456", "Shambhu", "19 April 2000", 24, "Banglore", "Durgapuri", 199);
+		CustomerVoterCard c8 = new CustomerVoterCard("TXQ123456", "Manoj", "29 September 2002", 105, "Pune", "AgraCantt", 195);
+		CustomerVoterCard c9 = new CustomerVoterCard("Abc123456", "Ram", "25 March 2003", 150, "Mumbai", "West Mumbai", 753);
+		CustomerVoterCard c10 = new CustomerVoterCard("YUO789456", "Shyam", "28 May 2025", 55, "Chennai", "Ashtamudi", 500);
+		
+		
+		System.out.println("===================================================================================");
+		
+		System.out.println("================CustomerVoterCard Details 1==================");
+		System.out.println("Object Reference is: " +c1);
+		System.out.println("Voter ID Card is: " +c1.getVoterID());
+		System.out.println("Name is: " +c1.getName());
+		System.out.println("Date Of Birth is: " +c1.getDateOfBirth());
+		System.out.println("Age is: " +c1.getAge());
+		System.out.println("Address is: " +c1.getAddress());
+		System.out.println("Constituency is: " +c1.getConstituency());
+		System.out.println("Constituency Number is: " +c1.getConstituencyNumber());
+		System.out.println("========================================================");
+		System.out.println("================CustomerVoterCard Details 2==================");
+		System.out.println("Object Reference is: " +c2);
+		System.out.println("Voter ID Card is: " +c2.getVoterID());
+		System.out.println("Name is: " +c2.getName());
+		System.out.println("Date Of Birth is: " +c2.getDateOfBirth());
+		System.out.println("Age is: " +c2.getAge());
+		System.out.println("Address is: " +c2.getAddress());
+		System.out.println("Constituency is: " +c2.getConstituency());
+		System.out.println("Constituency Number is: " +c2.getConstituencyNumber());
+		System.out.println("========================================================");
+		System.out.println("================CustomerVoterCard Details 3==================");
+		System.out.println("Object Reference is: " +c3);
+		System.out.println("Voter ID Card is: " +c3.getVoterID());
+		System.out.println("Name is: " +c3.getName());
+		System.out.println("Date Of Birth is: " +c3.getDateOfBirth());
+		System.out.println("Age is: " +c3.getAge());
+		System.out.println("Address is: " +c3.getAddress());
+		System.out.println("Constituency is: " +c3.getConstituency());
+		System.out.println("Constituency Number is: " +c3.getConstituencyNumber());
+		System.out.println("========================================================");
+		System.out.println("================CustomerVoterCard Details 4==================");
+		System.out.println("Object Reference is: " +c4);
+		System.out.println("Voter ID Card is: " +c4.getVoterID());
+		System.out.println("Name is: " +c4.getName());
+		System.out.println("Date Of Birth is: " +c4.getDateOfBirth());
+		System.out.println("Age is: " +c4.getAge());
+		System.out.println("Address is: " +c4.getAddress());
+		System.out.println("Constituency is: " +c4.getConstituency());
+		System.out.println("Constituency Number is: " +c4.getConstituencyNumber());
+		System.out.println("========================================================");
+		System.out.println("================CustomerVoterCard Details 5==================");
+		System.out.println("Object Reference is: " +c5);
+		System.out.println("Voter ID Card is: " +c5.getVoterID());
+		System.out.println("Name is: " +c5.getName());
+		System.out.println("Date Of Birth is: " +c5.getDateOfBirth());
+		System.out.println("Age is: " +c5.getAge());
+		System.out.println("Address is: " +c5.getAddress());
+		System.out.println("Constituency is: " +c5.getConstituency());
+		System.out.println("Constituency Number is: " +c5.getConstituencyNumber());
+		System.out.println("========================================================");
+		System.out.println("================CustomerVoterCard Details 6==================");
+		System.out.println("Object Reference is: " +c6);
+		System.out.println("Voter ID Card is: " +c6.getVoterID());
+		System.out.println("Name is: " +c6.getName());
+		System.out.println("Date Of Birth is: " +c6.getDateOfBirth());
+		System.out.println("Age is: " +c6.getAge());
+		System.out.println("Address is: " +c6.getAddress());
+		System.out.println("Constituency is: " +c6.getConstituency());
+		System.out.println("Constituency Number is: " +c6.getConstituencyNumber());
+		System.out.println("========================================================");
+		System.out.println("================CustomerVoterCard Details 7==================");
+		System.out.println("Object Reference is: " +c7);
+		System.out.println("Voter ID Card is: " +c7.getVoterID());
+		System.out.println("Name is: " +c7.getName());
+		System.out.println("Date Of Birth is: " +c7.getDateOfBirth());
+		System.out.println("Age is: " +c7.getAge());
+		System.out.println("Address is: " +c7.getAddress());
+		System.out.println("Constituency is: " +c7.getConstituency());
+		System.out.println("Constituency Number is: " +c7.getConstituencyNumber());
+		System.out.println("========================================================");
+		System.out.println("================CustomerVoterCard Details 8==================");
+		System.out.println("Object Reference is: " +c8);
+		System.out.println("Voter ID Card is: " +c8.getVoterID());
+		System.out.println("Name is: " +c8.getName());
+		System.out.println("Date Of Birth is: " +c8.getDateOfBirth());
+		System.out.println("Age is: " +c8.getAge());
+		System.out.println("Address is: " +c8.getAddress());
+		System.out.println("Constituency is: " +c8.getConstituency());
+		System.out.println("Constituency Number is: " +c8.getConstituencyNumber());
+		System.out.println("========================================================");
+		System.out.println("================CustomerVoterCard Details 9==================");
+		System.out.println("Object Reference is: " +c9);
+		System.out.println("Voter ID Card is: " +c9.getVoterID());
+		System.out.println("Name is: " +c9.getName());
+		System.out.println("Date Of Birth is: " +c9.getDateOfBirth());
+		System.out.println("Age is: " +c9.getAge());
+		System.out.println("Address is: " +c9.getAddress());
+		System.out.println("Constituency is: " +c9.getConstituency());
+		System.out.println("Constituency Number is: " +c9.getConstituencyNumber());
+		System.out.println("========================================================");
+		System.out.println("================CustomerVoterCard Details 1==================");
+		System.out.println("Object Reference is: " +c10);
+		System.out.println("Voter ID Card is: " +c10.getVoterID());
+		System.out.println("Name is: " +c10.getName());
+		System.out.println("Date Of Birth is: " +c10.getDateOfBirth());
+		System.out.println("Age is: " +c10.getAge());
+		System.out.println("Address is: " +c10.getAddress());
+		System.out.println("Constituency is: " +c10.getConstituency());
+		System.out.println("Constituency Number is: " +c10.getConstituencyNumber());
+		System.out.println("========================================================");
+	}
+
+}

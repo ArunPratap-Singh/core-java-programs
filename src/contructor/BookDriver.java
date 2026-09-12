@@ -1,0 +1,97 @@
+package contructor;
+
+public class BookDriver {
+
+	public static void main(String[] args) {
+		
+		System.out.println("===================================Main Method Starts========================================");
+		
+		Book b1 = new Book("Wings Of Fire", "Dr. A.P.J. Abdul Kalam", 1500.25);
+		Book b2 = new Book("The Alchemist", "Paulo Coelho", 850.50);
+		Book b3 = new Book("Harry Potter", "J.K. Rowling", 1200.75);
+		Book b4 = new Book("Rich Dad Poor Dad", "Robert Kiyosaki", 950.25);
+		Book b5 = new Book("Atomic Habits", "James Clear", 1100.50);
+		Book b6 = new Book("The Power of Now", "Eckhart Tolle", 780.25);
+		Book b7 = new Book("Think and Grow Rich", "Napoleon Hill", 650.75);
+		Book b8 = new Book("The 7 Habits", "Stephen Covey", 900.50);
+		Book b9 = new Book("Ikigai", "Hector Garcia", 550.25);
+		Book b10 = new Book("The Monk Who Sold His Ferrari", "Robin Sharma", 725.50);
+
+		Book b11 = new Book("The Secret", "Rhonda Byrne", 800.75);
+		Book b12 = new Book("The Psychology of Money", "Morgan Housel", 950.25);
+		Book b13 = new Book("Deep Work", "Cal Newport", 875.50);
+		Book b14 = new Book("The 5 AM Club", "Robin Sharma", 700.25);
+		Book b15 = new Book("Do Epic Shit", "Ankur Warikoo", 650.50);
+		Book b16 = new Book("India 2020", "Dr. A.P.J. Abdul Kalam", 900.75);
+		Book b17 = new Book("My Experiments with Truth", "Mahatma Gandhi", 1200.25);
+		Book b18 = new Book("Discovery of India", "Jawaharlal Nehru", 1350.50);
+		Book b19 = new Book("Godaan", "Munshi Premchand", 500.75);
+		Book b20 = new Book("Malgudi Days", "R.K. Narayan", 600.25);
+
+		Book b21 = new Book("The Guide", "R.K. Narayan", 700.50);
+		Book b22 = new Book("Train to Pakistan", "Khushwant Singh", 850.75);
+		Book b23 = new Book("The White Tiger", "Aravind Adiga", 950.25);
+		Book b24 = new Book("Midnight's Children", "Salman Rushdie", 1100.50);
+		Book b25 = new Book("A Suitable Boy", "Vikram Seth", 1450.75);
+		Book b26 = new Book("The Blue Umbrella", "Ruskin Bond", 450.25);
+		Book b27 = new Book("The Room on the Roof", "Ruskin Bond", 550.50);
+		Book b28 = new Book("Five Point Someone", "Chetan Bhagat", 600.75);
+		Book b29 = new Book("2 States", "Chetan Bhagat", 650.25);
+		Book b30 = new Book("The Immortals of Meluha", "Amish Tripathi", 900.50);
+
+		Book b31 = new Book("The Secret of the Nagas", "Amish Tripathi", 950.75);
+		Book b32 = new Book("The Palace of Illusions", "Chitra Banerjee Divakaruni", 850.25);
+		Book b33 = new Book("The Namesake", "Jhumpa Lahiri", 800.50);
+		Book b34 = new Book("The Kite Runner", "Khaled Hosseini", 1000.75);
+		Book b35 = new Book("A Thousand Splendid Suns", "Khaled Hosseini", 1050.25);
+		Book b36 = new Book("The Fault in Our Stars", "John Green", 700.50);
+		Book b37 = new Book("The Hunger Games", "Suzanne Collins", 900.75);
+		Book b38 = new Book("The Book Thief", "Markus Zusak", 1100.25);
+		Book b39 = new Book("The Great Gatsby", "F. Scott Fitzgerald", 650.50);
+		Book b40 = new Book("Pride and Prejudice", "Jane Austen", 750.75);
+		
+		System.out.println(b1);
+		System.out.println(b2);
+		System.out.println(b3);
+		System.out.println(b4);
+		System.out.println(b5);
+		System.out.println(b6);
+		System.out.println(b7);
+		System.out.println(b8);
+		System.out.println(b9);
+		System.out.println(b10);
+		System.out.println(b11);
+		System.out.println(b12);
+		System.out.println(b13);
+		System.out.println(b14);
+		System.out.println(b15);
+		System.out.println(b16);
+		System.out.println(b17);
+		System.out.println(b18);
+		System.out.println(b19);
+		System.out.println(b20);
+		System.out.println(b21);
+		System.out.println(b22);
+		System.out.println(b23);
+		System.out.println(b24);
+		System.out.println(b25);
+		System.out.println(b26);
+		System.out.println(b27);
+		System.out.println(b28);
+		System.out.println(b29);
+		System.out.println(b30);
+		System.out.println(b31);
+		System.out.println(b32);
+		System.out.println(b33);
+		System.out.println(b34);
+		System.out.println(b35);
+		System.out.println(b36);
+		System.out.println(b37);
+		System.out.println(b38);
+		System.out.println(b39);
+		System.out.println(b40);
+		
+		System.out.println("=====================================Main Method Ends=====================================");
+	}
+
+}

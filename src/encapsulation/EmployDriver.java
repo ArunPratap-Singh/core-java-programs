@@ -1,0 +1,115 @@
+package encapsulation;
+
+public class EmployDriver {
+
+	public static void main(String[] args) {
+		
+		Employ e1 = new Employ("Mohan Singh", 25, 20000, "Noida", 1234567891l, 111122223333L);
+		Employ e2 = new Employ("Jayant Rajput", 30, 10000, "Lucknow", 7894561231l, 222211113333L);
+		Employ e3 = new Employ("Shambhu Kumar", 40, 140000, "Delhi", 1597534682l, 999955551111L);
+		Employ e4 = new Employ("Arunendra Pratap Singh", 32, 100000, "Lucknow", 7894561591l, 222211115555L);
+		Employ e5 = new Employ("Akash Kumar", 35, 159000, "Merrut", 8975642315l, 444455556666l);
+		Employ e6 = new Employ("Ram chaudhary", 20, 20000, "Gaziabad", 7894561897l, 222211113333L);
+		Employ e7 = new Employ("Shyam Singh", 60, 55000, "Ayodhya", 1235946789l, 621345789555L);
+		Employ e8 = new Employ("Sohan Singh", 45, 350000, "Mumbai", 7895647892l, 111166664444L);
+		Employ e9 = new Employ("Jayan Suryavanshi", 24, 18000, "Banglore", 7899631231l, 999988887777L);
+		Employ e10 = new Employ("Mohan Kumar", 50, 15000, "Pune", 7894561519l, 123456777799L);
+		
+		System.out.println("==========================================================");
+		
+		e1.setName("Rohan");
+		System.out.println("Name after change is "+e1.getName());
+		System.out.println("===========Employ 1 Details============");
+		e1.setAge(20);
+		System.out.println("Object Reference is: " +e1);
+		System.out.println("Name is: " +e1.getName());
+		System.out.println("Age is: " +e1.getAge());
+		System.out.println("Salary is: " +e1.getSalary());
+		System.out.println("Address is: " +e1.getAddress());
+		System.out.println("PhoneNumberis: " +e1.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e1.getAdhaarNumber());
+		System.out.println("============================================");
+		System.out.println("===========Employ 2 Details============");
+		System.out.println("Object Reference is: " +e2);
+		System.out.println("Name is: " +e2.getName());
+		System.out.println("Age is: " +e2.getAge());
+		System.out.println("Salary is: " +e2.getSalary());
+		System.out.println("Address is: " +e2.getAddress());
+		System.out.println("PhoneNumberis: " +e2.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e2.getAdhaarNumber());
+		System.out.println("============================================");
+		System.out.println("===========Employ 3 Details============");
+		System.out.println("Object Reference is: " +e3);
+		System.out.println("Name is: " +e3.getName());
+		System.out.println("Age is: " +e3.getAge());
+		System.out.println("Salary is: " +e3.getSalary());
+		System.out.println("Address is: " +e3.getAddress());
+		System.out.println("PhoneNumberis: " +e3.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e3.getAdhaarNumber());
+		System.out.println("============================================");
+		System.out.println("===========Employ 4 Details============");
+		System.out.println("Object Reference is: " +e4);
+		System.out.println("Name is: " +e4.getName());
+		System.out.println("Age is: " +e4.getAge());
+		System.out.println("Salary is: " +e4.getSalary());
+		System.out.println("Address is: " +e4.getAddress());
+		System.out.println("PhoneNumberis: " +e4.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e4.getAdhaarNumber());
+		System.out.println("============================================");
+		System.out.println("===========Employ 5 Details============");
+		System.out.println("Object Reference is: " +e5);
+		System.out.println("Name is: " +e5.getName());
+		System.out.println("Age is: " +e5.getAge());
+		System.out.println("Salary is: " +e5.getSalary());
+		System.out.println("Address is: " +e5.getAddress());
+		System.out.println("PhoneNumberis: " +e5.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e5.getAdhaarNumber());
+		System.out.println("============================================");
+		System.out.println("===========Employ 6 Details============");
+		System.out.println("Object Reference is: " +e6);
+		System.out.println("Name is: " +e6.getName());
+		System.out.println("Age is: " +e6.getAge());
+		System.out.println("Salary is: " +e6.getSalary());
+		System.out.println("Address is: " +e6.getAddress());
+		System.out.println("PhoneNumberis: " +e6.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e6.getAdhaarNumber());
+		System.out.println("============================================");
+		System.out.println("===========Employ 7 Details============");
+		System.out.println("Object Reference is: " +e7);
+		System.out.println("Name is: " +e7.getName());
+		System.out.println("Age is: " +e7.getAge());
+		System.out.println("Salary is: " +e7.getSalary());
+		System.out.println("Address is: " +e7.getAddress());
+		System.out.println("PhoneNumberis: " +e7.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e7.getAdhaarNumber());
+		System.out.println("============================================");
+		System.out.println("===========Employ 8 Details============");
+		System.out.println("Object Reference is: " +e8);
+		System.out.println("Name is: " +e8.getName());
+		System.out.println("Age is: " +e8.getAge());
+		System.out.println("Salary is: " +e8.getSalary());
+		System.out.println("Address is: " +e8.getAddress());
+		System.out.println("PhoneNumberis: " +e8.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e8.getAdhaarNumber());
+		System.out.println("============================================");
+		System.out.println("===========Employ 9 Details============");
+		System.out.println("Object Reference is: " +e9);
+		System.out.println("Name is: " +e9.getName());
+		System.out.println("Age is: " +e9.getAge());
+		System.out.println("Salary is: " +e9.getSalary());
+		System.out.println("Address is: " +e9.getAddress());
+		System.out.println("PhoneNumberis: " +e9.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e9.getAdhaarNumber());
+		System.out.println("============================================");
+		System.out.println("===========Employ 10 Details============");
+		System.out.println("Object Reference is: " +e10);
+		System.out.println("Name is: " +e10.getName());
+		System.out.println("Age is: " +e10.getAge());
+		System.out.println("Salary is: " +e10.getSalary());
+		System.out.println("Address is: " +e10.getAddress());
+		System.out.println("PhoneNumberis: " +e10.getPhoneNumber());
+		System.out.println("AdhaarNumber is: " +e10.getAdhaarNumber());
+		System.out.println("============================================");
+	}
+
+}

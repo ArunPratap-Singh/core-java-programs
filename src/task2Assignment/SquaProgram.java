@@ -1,0 +1,158 @@
+package task2Assignment;
+
+public class SquaProgram {
+	
+	public static int getSquare(int num) {
+		
+		return num*num;
+	}
+	
+	public static void main(String[] args) {
+		
+		int result = getSquare(11);
+		int result1 = getSquare(12);
+		int result2 = getSquare(13);
+		int result3 = getSquare(14);
+		int result4 = getSquare(15);
+		int result5 = getSquare(16);
+		int result6 = getSquare(17);
+		int result7 = getSquare(18);
+		int result8 = getSquare(19);
+		int result9 = getSquare(20);
+		int result10 = getSquare(21);
+		int result11 = getSquare(22);
+		int result12 = getSquare(23);
+		int result13 = getSquare(24);
+		int result14 = getSquare(25);
+		int result15 = getSquare(26);
+		int result16 = getSquare(27);
+		int result17 = getSquare(28);
+		int result18 = getSquare(29);
+		int result19 = getSquare(30);
+		int result20 = getSquare(31);
+		int result21 = getSquare(32);
+		int result22 = getSquare(33);
+		int result23 = getSquare(34);
+		int result24 = getSquare(35);
+		int result25 = getSquare(36);
+		int result26 = getSquare(37);
+		int result27 = getSquare(38);
+		int result28 = getSquare(39);
+		int result29 = getSquare(40);
+		int result30 = getSquare(41);
+		int result31 = getSquare(42);
+		int result32 = getSquare(43);
+		int result33 = getSquare(44);
+		int result34 = getSquare(45);
+		int result35 = getSquare(46);
+		int result36 = getSquare(47);
+		int result37 = getSquare(48);
+		int result38 = getSquare(49);
+		int result39 = getSquare(50);
+		int result40 = getSquare(51);
+		int result41 = getSquare(52);
+		int result42 = getSquare(53);
+		int result43 = getSquare(54);
+		int result44 = getSquare(55);
+		int result45 = getSquare(56);
+		int result46 = getSquare(57);
+		int result47 = getSquare(58);
+		int result48 = getSquare(59);
+		int result49 = getSquare(60);
+		int result50 = getSquare(61);
+		int result51 = getSquare(62);
+		int result52 = getSquare(63);
+		int result53 = getSquare(64);
+		int result54 = getSquare(65);
+		int result55 = getSquare(66);
+		int result56 = getSquare(67);
+		int result57 = getSquare(68);
+		int result58 = getSquare(69);
+		int result59 = getSquare(70);
+		int result60 = getSquare(71);
+		int result61 = getSquare(72);
+		int result62 = getSquare(73);
+		int result63 = getSquare(74);
+		int result64 = getSquare(75);
+		int result65 = getSquare(76);
+		int result66 = getSquare(77);
+		int result67 = getSquare(78);
+		int result68 = getSquare(79);
+		int result69 = getSquare(80);
+		int result70 = getSquare(80);
+		
+		System.out.println(result);
+		System.out.println(result1);
+		System.out.println(result2);
+		System.out.println(result3);
+		System.out.println(result4);
+		System.out.println(result5);
+		System.out.println(result6);
+		System.out.println(result7);
+		System.out.println(result8);
+		System.out.println(result9);
+		System.out.println(result10);
+		System.out.println(result11);
+		System.out.println(result12);
+		System.out.println(result13);
+		System.out.println(result14);
+		System.out.println(result15);
+		System.out.println(result16);
+		System.out.println(result17);
+		System.out.println(result18);
+		System.out.println(result19);
+		System.out.println(result20);
+		System.out.println(result21);
+		System.out.println(result22);
+		System.out.println(result23);
+		System.out.println(result24);
+		System.out.println(result25);
+		System.out.println(result26);
+		System.out.println(result27);
+		System.out.println(result28);
+		System.out.println(result29);
+		System.out.println(result30);
+		System.out.println(result31);
+		System.out.println(result32);
+		System.out.println(result33);
+		System.out.println(result34);
+		System.out.println(result35);
+		System.out.println(result36);
+		System.out.println(result37);
+		System.out.println(result38);
+		System.out.println(result39);
+		System.out.println(result40);
+		System.out.println(result41);
+		System.out.println(result42);
+		System.out.println(result43);
+		System.out.println(result44);
+		System.out.println(result45);
+		System.out.println(result46);
+		System.out.println(result47);
+		System.out.println(result48);
+		System.out.println(result49);
+		System.out.println(result50);
+		System.out.println(result51);
+		System.out.println(result52);
+		System.out.println(result53);
+		System.out.println(result54);
+		System.out.println(result55);
+		System.out.println(result56);
+		System.out.println(result57);
+		System.out.println(result58);
+		System.out.println(result59);
+		System.out.println(result60);
+		System.out.println(result61);
+		System.out.println(result62);
+		System.out.println(result63);
+		System.out.println(result64);
+		System.out.println(result65);
+		System.out.println(result66);
+		System.out.println(result67);
+		System.out.println(result68);
+		System.out.println(result69);
+		System.out.println(result70);
+		
+	}
+
+}
