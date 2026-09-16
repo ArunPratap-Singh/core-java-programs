@@ -1,0 +1,8 @@
+String name
+int age
+String address
+long mobilenumber
+long adhaarnumber
+double salary
+String company
+String post

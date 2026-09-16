@@ -1,0 +1,11 @@
+Name is: mohan
+Age is: 56
+Weight is: 89.2
+Phone Number is: 1234567891
+Address is: lucknow
+Adhaar Number is: 111155556666
+Pan Number is: DWRY4567
+Gender is: m
+City is: Lucknow
+Email is: aruprasin123@gmail.com
+Is Graduate : true
