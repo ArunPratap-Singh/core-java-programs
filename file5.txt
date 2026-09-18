@@ -1,0 +1,18 @@
+======================================
+ EMPLOYEE DETAILS
+======================================
+Employee ID is : 123
+Employee Name is : mohan
+Age is : 25
+Gender is : m
+Department is : finance  dedartment
+Designation is : manager
+Salary is : 25000.0
+Experience is : 4.5 years
+Phone Number is : 1234567897
+Email is : aru@gmail.com
+City is : lucknow
+Company Name is : Qspider
+Joining Year is : 2026
+Project Name is : CRM
+Employment Type : automation

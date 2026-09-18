@@ -1,0 +1,37 @@
+======================================
+ EMPLOYEE DETAILS
+======================================
+Employee ID is : 125
+Employee Name is : sita
+Age is : 25
+Gender is : f
+Department is : hr
+Designation is : manager
+Salary is : 100000.0
+Experience : 6.0 years
+Phone Number : 8956327415
+Email : aru@
+City : lucknow
+Company Name : qspider
+Joining Year : 2105
+Project Name : crm
+Employment Type : permanent
+======================================
+======================================
+ EMPLOYEE DETAILS
+======================================
+Employee ID is : 123Employee Name is : sita
+Age is : 56
+Gender is : M
+Department is : FINANCE
+Designation is : manager
+Salary is : 89000.0
+Experience : 5.0 years
+Phone Number : 789561238
+Email : ght@
+City : lucknow
+Company Name : qspider
+Joining Year : 2016
+Project Name : orange crm
+Employment Type : permamnet
+======================================
