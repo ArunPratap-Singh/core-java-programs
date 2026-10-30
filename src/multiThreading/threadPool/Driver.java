@@ -30,7 +30,8 @@ public class Driver {
 		t10.start();
 		*/
 		
-		ExecutorService executor = 	Executors.newFixedThreadPool(5);
+		ExecutorService executor = 	Executors.newFixedThreadPool(5); //Thread Pool Is Created, this is the way to create thread
+																	 //pool
 		executor.submit(t1);
 		executor.submit(t2);
 		executor.submit(t3);
